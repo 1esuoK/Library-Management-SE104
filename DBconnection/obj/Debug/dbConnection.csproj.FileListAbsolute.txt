@@ -32,3 +32,9 @@ C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection
 C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Debug\DBconnection.csproj.CoreCompileInputs.cache
 C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Debug\dbConnection.dll
 C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Debug\dbConnection.pdb
+E:\UIT-Study\Library-Management-SE104\DBconnection\bin\Debug\dbConnection.dll
+E:\UIT-Study\Library-Management-SE104\DBconnection\bin\Debug\dbConnection.pdb
+E:\UIT-Study\Library-Management-SE104\DBconnection\obj\Debug\DBconnection.csproj.AssemblyReference.cache
+E:\UIT-Study\Library-Management-SE104\DBconnection\obj\Debug\DBconnection.csproj.CoreCompileInputs.cache
+E:\UIT-Study\Library-Management-SE104\DBconnection\obj\Debug\dbConnection.dll
+E:\UIT-Study\Library-Management-SE104\DBconnection\obj\Debug\dbConnection.pdb

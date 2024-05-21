@@ -23,7 +23,7 @@ namespace dbConnection
         { 
             myAdapter = new SqlDataAdapter();
            // string str = ConfigurationManager.AppSettings("ConnectionStr");
-            conn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=THUVIEN;Integrated Security=True");
+            conn = new SqlConnection(@"Data Source=NHUTLINH;Initial Catalog=THUVIEN;Integrated Security=True");
             
         }
 
