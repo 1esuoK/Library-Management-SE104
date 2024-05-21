@@ -116,7 +116,7 @@ CREATE TABLE phieuthutienphat
  --tb [phieumuon][quydinh] ngayhientai -ngaymuon <= songayduocmuon  them phieumuon 
  --tb [] 
  -- ??a DTO c?a QUYDINH len h?t lên bus s? lí 
- -- 
+
 
 
 --constrant 
