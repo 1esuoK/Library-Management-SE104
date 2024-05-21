@@ -1,0 +1,15 @@
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.csprojResolveAssemblyReference.cache
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienBUS.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienBUS.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienDAL.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienDTO.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\dbConnection.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienDAL.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\QuanLiThuVienDTO.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\bin\Release\dbConnection.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.csproj.AssemblyReference.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiTh.64A67220.Up2Date
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienBUS\obj\Release\QuanLiThuVienBUS.pdb

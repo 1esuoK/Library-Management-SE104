@@ -1,0 +1,12 @@
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\bin\Release\dbConnection.dll
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\bin\Release\dbConnection.pdb
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\obj\Release\DBconnection.csprojResolveAssemblyReference.cache
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\obj\Release\DBconnection.csproj.CoreCompileInputs.cache
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\obj\Release\dbConnection.dll
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\DBconnection\obj\Release\dbConnection.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\bin\Release\dbConnection.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\bin\Release\dbConnection.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Release\DBconnection.csproj.AssemblyReference.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Release\DBconnection.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Release\dbConnection.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\DBconnection\obj\Release\dbConnection.pdb

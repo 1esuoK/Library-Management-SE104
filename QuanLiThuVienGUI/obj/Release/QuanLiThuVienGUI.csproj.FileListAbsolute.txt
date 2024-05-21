@@ -1,0 +1,92 @@
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.dongThongTinSach.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmManHinhChinh.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThemBanDoc.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThemSach.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThongTinBanDoc.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThongTinSach.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.Properties.Resources.resources
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.csproj.GenerateResource.Cache
+D:\Download\tài liệu môn học UIT\SE104\se104-QuanLyThuVien\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Phan mem Quan ly Thu vien.exe.config
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Phan mem Quan ly Thu vien.exe
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Phan mem Quan ly Thu vien.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienBUS.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienDAL.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienDTO.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\dbConnection.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\EnvDTE.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\stdole.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienBUS.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienDAL.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\QuanLiThuVienDTO.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\dbConnection.pdb
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.csproj.AssemblyReference.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.dongPhieuTra.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.dongThongTinSach.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmInThongKe.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmManHinhChinh.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmNhapMaThe.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmPhieuMuon.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmPhieuThuTienPhat.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmPhieuTra.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThemBanDoc.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThemSach.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThongTinBanDoc.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.frmThongTinSach.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.Properties.Resource.resources
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.csproj.GenerateResource.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\Phan mem Quan ly Thu vien.exe.licenses
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiThuVienGUI.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\QuanLiTh.475F7220.Up2Date
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\Phan mem Quan ly Thu vien.exe
+C:\Users\AdminPc\Desktop\CNPM\se104-QuanLyThuVien\WIP\QuanLiThuVien\QuanLiThuVienGUI\obj\Release\Phan mem Quan ly Thu vien.pdb
