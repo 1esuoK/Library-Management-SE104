@@ -190,11 +190,6 @@ namespace QuanLiThuVienGUI
             f.ShowDialog();
         }
 
-        private void thôngTinPhầnMềmToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.Process.Start("https://github.com/hoango7604/se104-QuanLyThuVien");
-        }
-
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -543,7 +538,7 @@ namespace QuanLiThuVienGUI
 
                 SachTraTreDataSet sachTraTreDataSet = new SachTraTreDataSet();
 
-                SqlConnection cn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=THUVIEN;Integrated Security=True");
+                SqlConnection cn = new SqlConnection(@"Data Source=NHUTLINH;Initial Catalog=THUVIEN;Integrated Security=True");
                 string SQL = string.Format("select s.tensach, pm.ngaymuon, DATEDIFF(day, pm.ngaymuon,GETDATE()) as songaytre from((sach s inner join ct_phieumuon ctpm on s.masach = ctpm.masach) inner join phieumuon pm on ctpm.mapm = pm.mapm) where (MONTH(pm.ngaymuon) = {0} and YEAR(pm.ngaymuon) = {1}) and s.masach not in  (select s1.masach from(sach s1 inner join ct_phieutra ctpt on s1.masach = ctpt.masach) inner join phieutra pt on ctpt.mapt = pt.mapt)", dtmThongKe.Value.Month, dtmThongKe.Value.Year);
                 SqlDataAdapter da = new SqlDataAdapter(SQL, cn);
                 da.Fill(sachTraTreDataSet, sachTraTreDataSet.Tables[0].TableName);
@@ -568,7 +563,7 @@ namespace QuanLiThuVienGUI
                 frmInThongKe.TKRportViewer.LocalReport.ReportEmbeddedResource = "QuanLiThuVienGUI.TheLoaiSach.rdlc";
 
                 TheLoaiSachDataSet theLoaiSachDataSet = new TheLoaiSachDataSet();
-                SqlConnection cn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=THUVIEN;Integrated Security=True");
+                SqlConnection cn = new SqlConnection(@"Data Source=NHUTLINH;Initial Catalog=THUVIEN;Integrated Security=True");
                 string SQL = string.Format("select s.theloai, COUNT(*) as SoLuong from(phieumuon pm inner join ct_phieumuon ctpm on pm.mapm = ctpm.mapm) inner join sach s on s.masach = ctpm.masach where MONTH(pm.ngaymuon) = {0} and YEAR(pm.ngaymuon) = {1} group by(s.theloai) order by SoLuong desc ", dtmThongKe.Value.Month, dtmThongKe.Value.Year);
                 SqlDataAdapter da = new SqlDataAdapter(SQL, cn);
                 da.Fill(theLoaiSachDataSet, theLoaiSachDataSet.Tables[0].TableName);
