@@ -120,7 +120,7 @@
             // 
             // btnThemBanDoc
             // 
-            this.btnThemBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.btnThemBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             resources.ApplyResources(this.btnThemBanDoc, "btnThemBanDoc");
             this.btnThemBanDoc.Name = "btnThemBanDoc";
             this.btnThemBanDoc.UseVisualStyleBackColor = false;
@@ -128,7 +128,7 @@
             // 
             // btnHuyBanDoc
             // 
-            this.btnHuyBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.btnHuyBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.btnHuyBanDoc.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             resources.ApplyResources(this.btnHuyBanDoc, "btnHuyBanDoc");
             this.btnHuyBanDoc.Name = "btnHuyBanDoc";

@@ -57,6 +57,7 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.panel1.Controls.Add(this.lbMasSachEX);
             this.panel1.Controls.Add(this.lbGiaTriEX);
             this.panel1.Controls.Add(this.lbNamxbEX);
@@ -79,6 +80,7 @@
             this.panel1.Controls.Add(this.lbTheLoaiSach);
             this.panel1.Controls.Add(this.lbTacGiaSach);
             this.panel1.Controls.Add(this.lbNhaXuatBanSach);
+            this.panel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(469, 504);
@@ -113,9 +115,12 @@
             // 
             // txbGiaTriSach
             // 
+            this.txbGiaTriSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbGiaTriSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbGiaTriSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbGiaTriSach.Location = new System.Drawing.Point(108, 430);
             this.txbGiaTriSach.Name = "txbGiaTriSach";
-            this.txbGiaTriSach.Size = new System.Drawing.Size(348, 20);
+            this.txbGiaTriSach.Size = new System.Drawing.Size(348, 13);
             this.txbGiaTriSach.TabIndex = 7;
             this.txbGiaTriSach.TextChanged += new System.EventHandler(this.txbGiaTriSach_TextChanged);
             // 
@@ -150,25 +155,36 @@
             // 
             // txbNamXuatBanSach
             // 
+            this.txbNamXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNamXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbNamXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNamXuatBanSach.Location = new System.Drawing.Point(108, 379);
             this.txbNamXuatBanSach.Name = "txbNamXuatBanSach";
-            this.txbNamXuatBanSach.Size = new System.Drawing.Size(348, 20);
+            this.txbNamXuatBanSach.Size = new System.Drawing.Size(348, 13);
             this.txbNamXuatBanSach.TabIndex = 6;
             this.txbNamXuatBanSach.TextChanged += new System.EventHandler(this.txbNamXuatBanSach_TextChanged);
             // 
             // txbNhaXuatBanSach
             // 
+            this.txbNhaXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNhaXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbNhaXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNhaXuatBanSach.Location = new System.Drawing.Point(108, 283);
             this.txbNhaXuatBanSach.Name = "txbNhaXuatBanSach";
-            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(348, 20);
+            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(348, 13);
             this.txbNhaXuatBanSach.TabIndex = 4;
+            this.txbNhaXuatBanSach.TextChanged += new System.EventHandler(this.txbNhaXuatBanSach_TextChanged);
             // 
             // txbTacGiaSach
             // 
+            this.txbTacGiaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTacGiaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTacGiaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTacGiaSach.Location = new System.Drawing.Point(108, 233);
             this.txbTacGiaSach.Name = "txbTacGiaSach";
-            this.txbTacGiaSach.Size = new System.Drawing.Size(348, 20);
+            this.txbTacGiaSach.Size = new System.Drawing.Size(348, 13);
             this.txbTacGiaSach.TabIndex = 3;
+            this.txbTacGiaSach.TextChanged += new System.EventHandler(this.txbTacGiaSach_TextChanged);
             // 
             // btnHuySach
             // 
@@ -195,6 +211,8 @@
             // 
             this.cbTheLoaiSach.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTheLoaiSach.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbTheLoaiSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTheLoaiSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTheLoaiSach.FormattingEnabled = true;
             this.cbTheLoaiSach.Location = new System.Drawing.Point(108, 184);
             this.cbTheLoaiSach.Name = "cbTheLoaiSach";
@@ -204,9 +222,12 @@
             // 
             // txbMaSach
             // 
+            this.txbMaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbMaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbMaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbMaSach.Location = new System.Drawing.Point(108, 137);
             this.txbMaSach.Name = "txbMaSach";
-            this.txbMaSach.Size = new System.Drawing.Size(348, 20);
+            this.txbMaSach.Size = new System.Drawing.Size(348, 13);
             this.txbMaSach.TabIndex = 1;
             this.txbMaSach.TextChanged += new System.EventHandler(this.txbMaSach_TextChanged);
             // 
@@ -242,10 +263,14 @@
             // 
             // txbTenSach
             // 
+            this.txbTenSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTenSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenSach.Location = new System.Drawing.Point(108, 90);
             this.txbTenSach.Name = "txbTenSach";
-            this.txbTenSach.Size = new System.Drawing.Size(348, 20);
+            this.txbTenSach.Size = new System.Drawing.Size(348, 13);
             this.txbTenSach.TabIndex = 0;
+            this.txbTenSach.TextChanged += new System.EventHandler(this.txbTenSach_TextChanged);
             // 
             // lbMaSach
             // 
@@ -293,15 +318,18 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuySach;
             this.ClientSize = new System.Drawing.Size(493, 522);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmThemSach";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Thêm sách";
+            this.Load += new System.EventHandler(this.frmThemSach_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

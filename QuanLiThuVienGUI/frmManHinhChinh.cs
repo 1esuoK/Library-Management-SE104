@@ -307,22 +307,22 @@ namespace QuanLiThuVienGUI
 
             if (indexBanDoc >= 0)
             {
-                if (MessageBox.Show("Bạn có muốn xóa bạn đọc " + listDocGia[indexBanDoc].HoTen + "?", "Xóa bạn đọc", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation) == DialogResult.OK)
+                if (MessageBox.Show("Bạn có muốn xóa độc giả " + listDocGia[indexBanDoc].HoTen + "?", "Xóa độc giả", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation) == DialogResult.OK)
                 {
                     if (quanLiBanDocBUS.XoaDocGia(docgia))
                     {
-                        sttErrorLabel.Text = "Xóa bạn đọc thành công";
+                        sttErrorLabel.Text = "Xóa độc giả thành công";
                         loadDanhSachBanDoc(indexBanDoc >= listDocGia.Count - 1 ? indexBanDoc - 1 : indexBanDoc);
                     }
                     else
                     {
-                        sttErrorLabel.Text = "Xóa bạn đọc thất bại. Vui lòng kiểm tra lại";
+                        sttErrorLabel.Text = "Xóa độc giả thất bại. Vui lòng kiểm tra lại";
                     }
                 }
             }
             else
             {
-                sttErrorLabel.Text = "Vui lòng chọn một bạn đọc";
+                sttErrorLabel.Text = "Vui lòng chọn một độc giả";
             }
         }
 
@@ -842,6 +842,16 @@ namespace QuanLiThuVienGUI
             {
                 btnSuaThongTinSach_Click(sender, e);
             }
+        }
+
+        private void tcManHinhChinh_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnXoaSach_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
