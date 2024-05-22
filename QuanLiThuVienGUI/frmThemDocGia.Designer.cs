@@ -120,17 +120,19 @@
             // 
             // btnThemBanDoc
             // 
+            this.btnThemBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             resources.ApplyResources(this.btnThemBanDoc, "btnThemBanDoc");
             this.btnThemBanDoc.Name = "btnThemBanDoc";
-            this.btnThemBanDoc.UseVisualStyleBackColor = true;
+            this.btnThemBanDoc.UseVisualStyleBackColor = false;
             this.btnThemBanDoc.Click += new System.EventHandler(this.btnThemBanDoc_Click);
             // 
             // btnHuyBanDoc
             // 
+            this.btnHuyBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.btnHuyBanDoc.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             resources.ApplyResources(this.btnHuyBanDoc, "btnHuyBanDoc");
             this.btnHuyBanDoc.Name = "btnHuyBanDoc";
-            this.btnHuyBanDoc.UseVisualStyleBackColor = true;
+            this.btnHuyBanDoc.UseVisualStyleBackColor = false;
             this.btnHuyBanDoc.Click += new System.EventHandler(this.btnHuyBanDoc_Click);
             // 
             // panel1
