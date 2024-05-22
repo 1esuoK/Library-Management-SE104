@@ -337,6 +337,7 @@
             this.tcManHinhChinh.SelectedIndex = 0;
             this.tcManHinhChinh.Size = new System.Drawing.Size(970, 549);
             this.tcManHinhChinh.TabIndex = 1;
+            this.tcManHinhChinh.DrawItem += new System.Windows.Forms.DrawItemEventHandler(this.tcManHinhChinh_DrawItem);
             this.tcManHinhChinh.SelectedIndexChanged += new System.EventHandler(this.tcManHinhChinh_SelectedIndexChanged);
             this.tcManHinhChinh.Selected += new System.Windows.Forms.TabControlEventHandler(this.tcManHinhChinh_Selected);
             // 
@@ -828,6 +829,7 @@
             this.cbTimSachTheoTheLoai.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTimSachTheoTheLoai.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.cbTimSachTheoTheLoai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTimSachTheoTheLoai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cbTimSachTheoTheLoai.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTimSachTheoTheLoai.FormattingEnabled = true;
             this.cbTimSachTheoTheLoai.Location = new System.Drawing.Point(96, 80);
@@ -1025,6 +1027,7 @@
             // 
             this.cbTinhTrangSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbTinhTrangSach.Enabled = false;
+            this.cbTinhTrangSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cbTinhTrangSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTinhTrangSach.FormattingEnabled = true;
             this.cbTinhTrangSach.Location = new System.Drawing.Point(108, 487);
@@ -1135,6 +1138,7 @@
             this.cbTheLoaiSach.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTheLoaiSach.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.cbTheLoaiSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTheLoaiSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cbTheLoaiSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTheLoaiSach.FormattingEnabled = true;
             this.cbTheLoaiSach.Location = new System.Drawing.Point(108, 167);

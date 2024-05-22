@@ -84,10 +84,13 @@
             // 
             // txbMaTheBanDoc
             // 
+            this.txbMaTheBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbMaTheBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbMaTheBanDoc.Enabled = false;
+            this.txbMaTheBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbMaTheBanDoc.Location = new System.Drawing.Point(85, 56);
             this.txbMaTheBanDoc.Name = "txbMaTheBanDoc";
-            this.txbMaTheBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbMaTheBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbMaTheBanDoc.TabIndex = 5;
             this.txbMaTheBanDoc.TabStop = false;
             // 
@@ -104,10 +107,13 @@
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTenBanDoc.Enabled = false;
+            this.txbTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenBanDoc.Location = new System.Drawing.Point(586, 56);
             this.txbTenBanDoc.Name = "txbTenBanDoc";
-            this.txbTenBanDoc.Size = new System.Drawing.Size(246, 20);
+            this.txbTenBanDoc.Size = new System.Drawing.Size(246, 13);
             this.txbTenBanDoc.TabIndex = 4;
             this.txbTenBanDoc.TabStop = false;
             // 
@@ -174,10 +180,13 @@
             // 
             // txbTongTienPhat
             // 
+            this.txbTongTienPhat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTongTienPhat.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTongTienPhat.Enabled = false;
+            this.txbTongTienPhat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTongTienPhat.Location = new System.Drawing.Point(587, 58);
             this.txbTongTienPhat.Name = "txbTongTienPhat";
-            this.txbTongTienPhat.Size = new System.Drawing.Size(246, 20);
+            this.txbTongTienPhat.Size = new System.Drawing.Size(246, 13);
             this.txbTongTienPhat.TabIndex = 22;
             this.txbTongTienPhat.TabStop = false;
             // 
@@ -292,7 +301,7 @@
             // pnDanhSachSachTra
             // 
             this.pnDanhSachSachTra.AutoSize = true;
-            this.pnDanhSachSachTra.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pnDanhSachSachTra.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.pnDanhSachSachTra.Location = new System.Drawing.Point(3, 3);
             this.pnDanhSachSachTra.Name = "pnDanhSachSachTra";
             this.pnDanhSachSachTra.Size = new System.Drawing.Size(823, 273);
@@ -303,10 +312,12 @@
             this.AcceptButton = this.btnHuy;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(877, 500);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmPhieuTra";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
