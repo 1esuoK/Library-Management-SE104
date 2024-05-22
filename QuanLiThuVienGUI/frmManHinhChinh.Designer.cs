@@ -183,6 +183,7 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.menuStrip1.Dock = System.Windows.Forms.DockStyle.None;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cậpNhậtToolStripMenuItem,
@@ -198,6 +199,7 @@
             this.cậpNhậtToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.thêmBạnĐọcToolStripMenuItem,
             this.thêmSáchToolStripMenuItem});
+            this.cậpNhậtToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cậpNhậtToolStripMenuItem.Name = "cậpNhậtToolStripMenuItem";
             this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.cậpNhậtToolStripMenuItem.Text = "Thêm";
@@ -226,6 +228,7 @@
             this.tạoPhiếuTrảToolStripMenuItem,
             this.toolStripMenuItem1,
             this.thuTiềnPhạtToolStripMenuItem});
+            this.quảnLýMượntrảToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.quảnLýMượntrảToolStripMenuItem.Name = "quảnLýMượntrảToolStripMenuItem";
             this.quảnLýMượntrảToolStripMenuItem.Size = new System.Drawing.Size(114, 20);
             this.quảnLýMượntrảToolStripMenuItem.Text = "Quản lý mượn/trả";
@@ -286,8 +289,10 @@
             // toolStripContainer1.ContentPanel
             // 
             this.toolStripContainer1.ContentPanel.AutoScroll = true;
+            this.toolStripContainer1.ContentPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.toolStripContainer1.ContentPanel.Controls.Add(this.sttError);
             this.toolStripContainer1.ContentPanel.Controls.Add(this.tcManHinhChinh);
+            this.toolStripContainer1.ContentPanel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(970, 574);
             this.toolStripContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.toolStripContainer1.Location = new System.Drawing.Point(0, 0);
@@ -336,6 +341,7 @@
             // 
             // tpBanDoc
             // 
+            this.tpBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.tpBanDoc.Controls.Add(this.panel11);
             this.tpBanDoc.Controls.Add(this.panel1);
             this.tpBanDoc.Controls.Add(this.flowLayoutPanel4);
@@ -346,7 +352,6 @@
             this.tpBanDoc.Size = new System.Drawing.Size(962, 491);
             this.tpBanDoc.TabIndex = 0;
             this.tpBanDoc.Text = "Độc giả";
-            this.tpBanDoc.UseVisualStyleBackColor = true;
             // 
             // panel11
             // 
@@ -361,8 +366,10 @@
             this.dgvThongTinBanDoc.AllowUserToAddRows = false;
             this.dgvThongTinBanDoc.AllowUserToDeleteRows = false;
             this.dgvThongTinBanDoc.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgvThongTinBanDoc.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.dgvThongTinBanDoc.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvThongTinBanDoc.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvThongTinBanDoc.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.dgvThongTinBanDoc.Location = new System.Drawing.Point(0, 0);
             this.dgvThongTinBanDoc.Name = "dgvThongTinBanDoc";
             this.dgvThongTinBanDoc.ReadOnly = true;
@@ -374,12 +381,13 @@
             // 
             // panel1
             // 
-            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.panel1.Controls.Add(this.lbTimKiemTheoTenBanDoc);
             this.panel1.Controls.Add(this.lbTimKiemBanDocTheoMa);
             this.panel1.Controls.Add(this.btnTimKiemBanDoc);
             this.panel1.Controls.Add(this.txbTimKiemTheoTenBanDoc);
             this.panel1.Controls.Add(this.txbTimKiemBanDocTheoMa);
+            this.panel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.panel1.Location = new System.Drawing.Point(484, 3);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(472, 93);
@@ -405,27 +413,35 @@
             // 
             // btnTimKiemBanDoc
             // 
+            this.btnTimKiemBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnTimKiemBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTimKiemBanDoc.Location = new System.Drawing.Point(375, 11);
             this.btnTimKiemBanDoc.Name = "btnTimKiemBanDoc";
             this.btnTimKiemBanDoc.Size = new System.Drawing.Size(91, 64);
             this.btnTimKiemBanDoc.TabIndex = 2;
             this.btnTimKiemBanDoc.Text = "Tìm";
-            this.btnTimKiemBanDoc.UseVisualStyleBackColor = true;
+            this.btnTimKiemBanDoc.UseVisualStyleBackColor = false;
             this.btnTimKiemBanDoc.Click += new System.EventHandler(this.btnTimKiemBanDoc_Click);
             // 
             // txbTimKiemTheoTenBanDoc
             // 
+            this.txbTimKiemTheoTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTimKiemTheoTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTimKiemTheoTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTimKiemTheoTenBanDoc.Location = new System.Drawing.Point(153, 46);
             this.txbTimKiemTheoTenBanDoc.Name = "txbTimKiemTheoTenBanDoc";
-            this.txbTimKiemTheoTenBanDoc.Size = new System.Drawing.Size(215, 29);
+            this.txbTimKiemTheoTenBanDoc.Size = new System.Drawing.Size(215, 22);
             this.txbTimKiemTheoTenBanDoc.TabIndex = 1;
             this.txbTimKiemTheoTenBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.searchBanDocTheoMa_KeyDown);
             // 
             // txbTimKiemBanDocTheoMa
             // 
+            this.txbTimKiemBanDocTheoMa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTimKiemBanDocTheoMa.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTimKiemBanDocTheoMa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTimKiemBanDocTheoMa.Location = new System.Drawing.Point(153, 11);
             this.txbTimKiemBanDocTheoMa.Name = "txbTimKiemBanDocTheoMa";
-            this.txbTimKiemBanDocTheoMa.Size = new System.Drawing.Size(215, 29);
+            this.txbTimKiemBanDocTheoMa.Size = new System.Drawing.Size(215, 22);
             this.txbTimKiemBanDocTheoMa.TabIndex = 0;
             this.txbTimKiemBanDocTheoMa.KeyDown += new System.Windows.Forms.KeyEventHandler(this.searchBanDocTheoMa_KeyDown);
             // 
@@ -442,32 +458,38 @@
             // 
             // btnThemBanDoc
             // 
+            this.btnThemBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnThemBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThemBanDoc.Location = new System.Drawing.Point(3, 3);
             this.btnThemBanDoc.Name = "btnThemBanDoc";
             this.btnThemBanDoc.Size = new System.Drawing.Size(151, 90);
             this.btnThemBanDoc.TabIndex = 0;
             this.btnThemBanDoc.Text = "Thêm độc giả";
-            this.btnThemBanDoc.UseVisualStyleBackColor = true;
+            this.btnThemBanDoc.UseVisualStyleBackColor = false;
             this.btnThemBanDoc.Click += new System.EventHandler(this.btnThemBanDoc_Click);
             // 
             // btnSuaThongTinBanDoc
             // 
+            this.btnSuaThongTinBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnSuaThongTinBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSuaThongTinBanDoc.Location = new System.Drawing.Point(160, 3);
             this.btnSuaThongTinBanDoc.Name = "btnSuaThongTinBanDoc";
             this.btnSuaThongTinBanDoc.Size = new System.Drawing.Size(151, 90);
             this.btnSuaThongTinBanDoc.TabIndex = 1;
             this.btnSuaThongTinBanDoc.Text = "Sửa thông tin";
-            this.btnSuaThongTinBanDoc.UseVisualStyleBackColor = true;
+            this.btnSuaThongTinBanDoc.UseVisualStyleBackColor = false;
             this.btnSuaThongTinBanDoc.Click += new System.EventHandler(this.btnSuaThongTinBanDoc_Click);
             // 
             // btnXoaBanDoc
             // 
+            this.btnXoaBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnXoaBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnXoaBanDoc.Location = new System.Drawing.Point(317, 3);
             this.btnXoaBanDoc.Name = "btnXoaBanDoc";
             this.btnXoaBanDoc.Size = new System.Drawing.Size(151, 90);
             this.btnXoaBanDoc.TabIndex = 2;
             this.btnXoaBanDoc.Text = "Xóa độc giả";
-            this.btnXoaBanDoc.UseVisualStyleBackColor = true;
+            this.btnXoaBanDoc.UseVisualStyleBackColor = false;
             this.btnXoaBanDoc.Click += new System.EventHandler(this.btnXoaBanDoc_Click);
             // 
             // flowLayoutPanel3
@@ -483,6 +505,8 @@
             // 
             // panel3
             // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.panel3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.panel3.Controls.Add(this.lbTenbandocEX);
             this.panel3.Controls.Add(this.lbEmailEX);
             this.panel3.Controls.Add(this.lbCmndEX);
@@ -503,6 +527,7 @@
             this.panel3.Controls.Add(this.lbNgaySinhBanDoc);
             this.panel3.Controls.Add(this.lbEmailBanDoc);
             this.panel3.Controls.Add(this.lbDiaChiBanDoc);
+            this.panel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.panel3.Location = new System.Drawing.Point(3, 3);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(445, 492);
@@ -554,10 +579,13 @@
             // 
             // txbTongTienNoBanDoc
             // 
+            this.txbTongTienNoBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTongTienNoBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTongTienNoBanDoc.Enabled = false;
+            this.txbTongTienNoBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTongTienNoBanDoc.Location = new System.Drawing.Point(108, 397);
             this.txbTongTienNoBanDoc.Name = "txbTongTienNoBanDoc";
-            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(325, 29);
+            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(325, 22);
             this.txbTongTienNoBanDoc.TabIndex = 20;
             this.txbTongTienNoBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinBanDoc_KeyDown);
             // 
@@ -585,19 +613,24 @@
             // 
             // btnHienThongTinChiTietBanDoc
             // 
+            this.btnHienThongTinChiTietBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnHienThongTinChiTietBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnHienThongTinChiTietBanDoc.Location = new System.Drawing.Point(7, 3);
             this.btnHienThongTinChiTietBanDoc.Name = "btnHienThongTinChiTietBanDoc";
             this.btnHienThongTinChiTietBanDoc.Size = new System.Drawing.Size(426, 50);
             this.btnHienThongTinChiTietBanDoc.TabIndex = 0;
             this.btnHienThongTinChiTietBanDoc.Text = "Hiện chi tiết";
-            this.btnHienThongTinChiTietBanDoc.UseVisualStyleBackColor = true;
+            this.btnHienThongTinChiTietBanDoc.UseVisualStyleBackColor = false;
             this.btnHienThongTinChiTietBanDoc.Click += new System.EventHandler(this.btnHienThongTinChiTietBanDoc_Click);
             // 
             // txbDiaChiBanDoc
             // 
+            this.txbDiaChiBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbDiaChiBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbDiaChiBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbDiaChiBanDoc.Location = new System.Drawing.Point(108, 289);
             this.txbDiaChiBanDoc.Name = "txbDiaChiBanDoc";
-            this.txbDiaChiBanDoc.Size = new System.Drawing.Size(325, 29);
+            this.txbDiaChiBanDoc.Size = new System.Drawing.Size(325, 22);
             this.txbDiaChiBanDoc.TabIndex = 5;
             this.txbDiaChiBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinBanDoc_KeyDown);
             // 
@@ -613,9 +646,12 @@
             // 
             // txbEmailBanDoc
             // 
+            this.txbEmailBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbEmailBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbEmailBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbEmailBanDoc.Location = new System.Drawing.Point(108, 228);
             this.txbEmailBanDoc.Name = "txbEmailBanDoc";
-            this.txbEmailBanDoc.Size = new System.Drawing.Size(325, 29);
+            this.txbEmailBanDoc.Size = new System.Drawing.Size(325, 22);
             this.txbEmailBanDoc.TabIndex = 4;
             this.txbEmailBanDoc.TextChanged += new System.EventHandler(this.txbEmailBanDoc_TextChanged);
             this.txbEmailBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinBanDoc_KeyDown);
@@ -624,7 +660,10 @@
             // 
             this.cbLoaiDocGia.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbLoaiDocGia.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbLoaiDocGia.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbLoaiDocGia.Enabled = false;
+            this.cbLoaiDocGia.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbLoaiDocGia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbLoaiDocGia.FormattingEnabled = true;
             this.cbLoaiDocGia.Location = new System.Drawing.Point(108, 340);
             this.cbLoaiDocGia.Name = "cbLoaiDocGia";
@@ -634,10 +673,13 @@
             // 
             // txbCMNDBanDoc
             // 
+            this.txbCMNDBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbCMNDBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbCMNDBanDoc.Enabled = false;
+            this.txbCMNDBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbCMNDBanDoc.Location = new System.Drawing.Point(108, 120);
             this.txbCMNDBanDoc.Name = "txbCMNDBanDoc";
-            this.txbCMNDBanDoc.Size = new System.Drawing.Size(325, 29);
+            this.txbCMNDBanDoc.Size = new System.Drawing.Size(325, 22);
             this.txbCMNDBanDoc.TabIndex = 2;
             this.txbCMNDBanDoc.TextChanged += new System.EventHandler(this.txbCMNDBanDoc_TextChanged);
             this.txbCMNDBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinBanDoc_KeyDown);
@@ -664,9 +706,12 @@
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenBanDoc.Location = new System.Drawing.Point(108, 59);
             this.txbTenBanDoc.Name = "txbTenBanDoc";
-            this.txbTenBanDoc.Size = new System.Drawing.Size(325, 29);
+            this.txbTenBanDoc.Size = new System.Drawing.Size(325, 22);
             this.txbTenBanDoc.TabIndex = 1;
             this.txbTenBanDoc.TextChanged += new System.EventHandler(this.txbTenBanDoc_TextChanged);
             this.txbTenBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinBanDoc_KeyDown);
@@ -713,6 +758,7 @@
             // 
             // tpSach
             // 
+            this.tpSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.tpSach.Controls.Add(this.panel12);
             this.tpSach.Controls.Add(this.panel2);
             this.tpSach.Controls.Add(this.flowLayoutPanel2);
@@ -723,7 +769,6 @@
             this.tpSach.Size = new System.Drawing.Size(962, 491);
             this.tpSach.TabIndex = 1;
             this.tpSach.Text = "    Sách   ";
-            this.tpSach.UseVisualStyleBackColor = true;
             // 
             // panel12
             // 
@@ -1146,6 +1191,7 @@
             // 
             // tpThongKe
             // 
+            this.tpThongKe.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.tpThongKe.Controls.Add(this.btnInDS);
             this.tpThongKe.Controls.Add(this.btnXemDS);
             this.tpThongKe.Controls.Add(this.lblThoiGian);
@@ -1158,7 +1204,6 @@
             this.tpThongKe.Size = new System.Drawing.Size(962, 491);
             this.tpThongKe.TabIndex = 5;
             this.tpThongKe.Text = "  Thống Kê  ";
-            this.tpThongKe.UseVisualStyleBackColor = true;
             // 
             // btnInDS
             // 
@@ -1252,6 +1297,7 @@
             // 
             // tpQuyDinh
             // 
+            this.tpQuyDinh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.tpQuyDinh.Controls.Add(this.btnCapNhatQuyDinh);
             this.tpQuyDinh.Controls.Add(this.panel5);
             this.tpQuyDinh.Location = new System.Drawing.Point(4, 54);
@@ -1260,7 +1306,6 @@
             this.tpQuyDinh.Size = new System.Drawing.Size(962, 491);
             this.tpQuyDinh.TabIndex = 6;
             this.tpQuyDinh.Text = "  Quy định  ";
-            this.tpQuyDinh.UseVisualStyleBackColor = true;
             // 
             // btnCapNhatQuyDinh
             // 
