@@ -407,6 +407,10 @@
   <data name="&gt;&gt;dtpNgaySinhBanDoc.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnThemBanDoc.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="btnThemBanDoc.Location" type="System.Drawing.Point, System.Drawing">
     <value>290, 300</value>
   </data>
@@ -430,6 +434,9 @@
   </data>
   <data name="&gt;&gt;btnThemBanDoc.ZOrder" xml:space="preserve">
     <value>8</value>
+  </data>
+  <data name="btnHuyBanDoc.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btnHuyBanDoc.Location" type="System.Drawing.Point, System.Drawing">
     <value>384, 300</value>
@@ -458,7 +465,6 @@
   <data name="lbNgaySinhEX.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lbNgaySinhEX.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
