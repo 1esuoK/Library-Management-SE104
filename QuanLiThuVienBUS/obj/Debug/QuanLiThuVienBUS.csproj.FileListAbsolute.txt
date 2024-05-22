@@ -84,3 +84,16 @@ E:\UIT-Study\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBU
 E:\UIT-Study\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.CopyComplete
 E:\UIT-Study\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.dll
 E:\UIT-Study\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienBUS.dll
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienBUS.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDAL.dll
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDTO.dll
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\dbConnection.dll
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDAL.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDTO.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\dbConnection.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.AssemblyReference.cache
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiTh.64A67220.Up2Date
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.dll
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.pdb
