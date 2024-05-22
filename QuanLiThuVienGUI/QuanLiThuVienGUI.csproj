@@ -150,11 +150,11 @@
     <Compile Include="frmPhieuTra.Designer.cs">
       <DependentUpon>frmPhieuTra.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmThemBanDoc.cs">
+    <Compile Include="frmThemDocGia.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmThemBanDoc.Designer.cs">
-      <DependentUpon>frmThemBanDoc.cs</DependentUpon>
+    <Compile Include="frmThemDocGia.Designer.cs">
+      <DependentUpon>frmThemDocGia.cs</DependentUpon>
     </Compile>
     <Compile Include="frmThemSach.cs">
       <SubType>Form</SubType>
@@ -219,8 +219,8 @@
     <EmbeddedResource Include="frmPhieuTra.resx">
       <DependentUpon>frmPhieuTra.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmThemBanDoc.resx">
-      <DependentUpon>frmThemBanDoc.cs</DependentUpon>
+    <EmbeddedResource Include="frmThemDocGia.resx">
+      <DependentUpon>frmThemDocGia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThemSach.resx">
       <DependentUpon>frmThemSach.cs</DependentUpon>

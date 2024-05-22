@@ -12,10 +12,10 @@ using QuanLiThuVienDTO;
 
 namespace QuanLiThuVienGUI
 {
-    public partial class frmThemBanDoc : Form
+    public partial class frmThemDocGia : Form
     {
         private Form mainForm;
-        public frmThemBanDoc(Form parent)
+        public frmThemDocGia(Form parent)
         {
             InitializeComponent();
             this.mainForm = parent;

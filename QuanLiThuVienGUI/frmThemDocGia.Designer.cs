@@ -1,6 +1,6 @@
 ﻿namespace QuanLiThuVienGUI
 {
-    partial class frmThemBanDoc
+    partial class frmThemDocGia
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThemBanDoc));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThemDocGia));
             this.lbThemBanDoc = new System.Windows.Forms.Label();
             this.lbTenBanDoc = new System.Windows.Forms.Label();
             this.txbTenBanDoc = new System.Windows.Forms.TextBox();
@@ -62,12 +62,16 @@
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.txbTenBanDoc, "txbTenBanDoc");
             this.txbTenBanDoc.Name = "txbTenBanDoc";
             this.txbTenBanDoc.TextChanged += new System.EventHandler(this.txbTenBanDoc_TextChanged);
             // 
             // txbCMNDBanDoc
             // 
+            this.txbCMNDBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbCMNDBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.txbCMNDBanDoc, "txbCMNDBanDoc");
             this.txbCMNDBanDoc.Name = "txbCMNDBanDoc";
             this.txbCMNDBanDoc.TextChanged += new System.EventHandler(this.txbCMNDBanDoc_TextChanged);
@@ -84,6 +88,8 @@
             // 
             // txbEmailBanDoc
             // 
+            this.txbEmailBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbEmailBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.txbEmailBanDoc, "txbEmailBanDoc");
             this.txbEmailBanDoc.Name = "txbEmailBanDoc";
             this.txbEmailBanDoc.TextChanged += new System.EventHandler(this.txbEmailBanDoc_TextChanged);
@@ -95,6 +101,8 @@
             // 
             // txbDiaChiBanDoc
             // 
+            this.txbDiaChiBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbDiaChiBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.txbDiaChiBanDoc, "txbDiaChiBanDoc");
             this.txbDiaChiBanDoc.Name = "txbDiaChiBanDoc";
             // 
@@ -171,16 +179,18 @@
             this.lbTenbandocEX.ForeColor = System.Drawing.Color.Red;
             this.lbTenbandocEX.Name = "lbTenbandocEX";
             // 
-            // frmThemBanDoc
+            // frmThemDocGia
             // 
             this.AcceptButton = this.btnThemBanDoc;
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuyBanDoc;
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "frmThemBanDoc";
+            this.Name = "frmThemDocGia";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

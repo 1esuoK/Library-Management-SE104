@@ -1143,7 +1143,6 @@ C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debu
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmPhieuMuon.resources
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmPhieuThuTienPhat.resources
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmPhieuTra.resources
-C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmThemBanDoc.resources
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmThemSach.resources
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmThongTinBanDoc.resources
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmThongTinSach.resources
@@ -1154,3 +1153,4 @@ C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debu
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiTh.475F7220.Up2Date
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\Phan mem Quan ly Thu vien.exe
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\Phan mem Quan ly Thu vien.pdb
+C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienGUI\obj\Debug\QuanLiThuVienGUI.frmThemDocGia.resources
