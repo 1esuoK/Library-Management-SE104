@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\",
+  "WorkspaceRootPath": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\se104-quanlythuvien\\wip\\quanlithuvien\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\se104-quanlythuvien\\wip\\quanlithuvien\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\se104-quanlythuvien\\wip\\quanlithuvien\\quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmManHinhChinh.cs",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAswMIAAAAMAAAA",
+              "ViewState": "AQIAAEEDAAAAAAAAAAAiwE0DAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T08:54:21.715Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmManHinhChinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]",
               "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T08:54:16.882Z",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\Program.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\Program.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\se104-QuanLyThuVien\\WIP\\QuanLiThuVien\\QuanLiThuVienGUI\\Program.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\Program.cs",
               "RelativeToolTip": "QuanLiThuVienGUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
