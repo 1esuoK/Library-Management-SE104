@@ -180,13 +180,18 @@ namespace QuanLiThuVienDAL
        
        }
 
+        // xoá sách 
+        public bool xoaSach(int masach)
+        {
+            string query = string.Format("delete from [sach] where masach=@masach");
+            SqlParameter[] param = new SqlParameter[1];
+            param[0] = new SqlParameter("@masach", SqlDbType.Int);
+            param[0].Value = Convert.ToString(masach);
+            conn.excuteNonQuery2(query, param);
+            return true;
+        }
 
-    /// <summary>
-        /// M Thêm cái hàm đây nhá Hiếu
-        /// </summary>
-        /// <param name="list"></param>
-        /// <returns></returns>
-       public bool SachDangMuon(int mathe, List<sachDTO> sachList, List<DateTime> ngaymuoncuasachList)
+        public bool SachDangMuon(int mathe, List<sachDTO> sachList, List<DateTime> ngaymuoncuasachList)
         {
             DataTable s1, s2;
             s1 = new DataTable();

@@ -81,3 +81,14 @@ C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDAL\obj\Debu
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiTh.112FCA64.Up2Date
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.dll
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\QuanLiThuVienDAL.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\QuanLiThuVienDAL.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\dbConnection.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\QuanLiThuVienDTO.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\dbConnection.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\bin\Debug\QuanLiThuVienDTO.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.csproj.AssemblyReference.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.csproj.CoreCompileInputs.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.csproj.CopyComplete
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDAL\obj\Debug\QuanLiThuVienDAL.pdb

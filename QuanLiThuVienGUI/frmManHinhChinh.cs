@@ -846,7 +846,27 @@ namespace QuanLiThuVienGUI
 
         private void btnXoaSach_Click(object sender, EventArgs e)
         {
+            refreshError();
 
+            if (indexSach >= 0)
+            {
+                if (MessageBox.Show("Bạn có muốn xóa sách " + listSach[indexSach].Tensach + "?", "Xóa sách ", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation) == DialogResult.OK)
+                {
+                    if (quanLiSachBUS.XoaSach(sach))
+                    {
+                        sttErrorLabel.Text = "Xóa sách thành công";
+                        loadDanhSachSach(indexSach >= listSach.Count - 1 ? indexSach - 1 : indexSach);
+                    }
+                    else
+                    {
+                        sttErrorLabel.Text = "Xóa sách thất bại. Vui lòng kiểm tra lại";
+                    }
+                }
+            }
+            else
+            {
+                sttErrorLabel.Text = "Vui lòng chọn sách";
+            }
         }
 
         private void tcManHinhChinh_DrawItem(object sender, DrawItemEventArgs e)

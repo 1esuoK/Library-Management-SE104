@@ -43,3 +43,9 @@ C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDTO\obj\Debu
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.csproj.CoreCompileInputs.cache
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.dll
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\bin\Debug\QuanLiThuVienDTO.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\bin\Debug\QuanLiThuVienDTO.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.csproj.AssemblyReference.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.csproj.CoreCompileInputs.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienDTO\obj\Debug\QuanLiThuVienDTO.pdb

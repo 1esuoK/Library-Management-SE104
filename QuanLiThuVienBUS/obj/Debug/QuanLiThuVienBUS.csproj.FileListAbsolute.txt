@@ -97,3 +97,16 @@ C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debu
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiTh.64A67220.Up2Date
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.dll
 C:\Users\AdminPc\Desktop\CNPM\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.AssemblyReference.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.CoreCompileInputs.cache
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienBUS.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienBUS.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDAL.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDTO.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\dbConnection.dll
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDAL.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\QuanLiThuVienDTO.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\bin\Debug\dbConnection.pdb
+E:\UIT-Study\HK6\Library-Management-SE104\QuanLiThuVienBUS\obj\Debug\QuanLiThuVienBUS.csproj.CopyComplete

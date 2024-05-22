@@ -246,6 +246,8 @@ namespace QuanLiThuVienBUS
             return saxDal.themSach(sDTO);
         }
 
+
+
         /// <summary>
         /// Sửa thông tin sách
         /// </summary>
@@ -266,9 +268,16 @@ namespace QuanLiThuVienBUS
         /// </summary>
         /// <param name="sDTO"></param>
         /// <returns></returns>
-        public bool XoaSach(sachDTO sDTO)
+        public bool XoaSach(sachDTO sach)
         {
-            return false;
+            sachDAL sachDAL = new sachDAL();
+            if (!sachDAL.isSach(sach.Masach))
+            {
+                BUS_notification.mess = "Không tồn tại mã sách";
+                return false;
+            }
+
+            return sachDAL.xoaSach(sach.Masach);
         }
 
         /// Danh sách các tựa sách mà đọc giả đang lượng

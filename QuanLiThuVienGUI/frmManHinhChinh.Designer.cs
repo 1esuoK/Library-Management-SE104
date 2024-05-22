@@ -944,7 +944,6 @@
             // 
             // btnXoaSach
             // 
-            this.btnXoaSach.Enabled = false;
             this.btnXoaSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnXoaSach.Location = new System.Drawing.Point(317, 3);
             this.btnXoaSach.Name = "btnXoaSach";
