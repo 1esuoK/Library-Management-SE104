@@ -1,6 +1,6 @@
 ﻿namespace QuanLiThuVienGUI
 {
-    partial class frmThongTinBanDoc
+    partial class frmThongTinDocGia
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThongTinBanDoc));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThongTinDocGia));
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnHuy = new System.Windows.Forms.Button();
             this.dtpNgayTaoTheBanDoc = new System.Windows.Forms.DateTimePicker();
@@ -122,10 +122,13 @@
             // 
             // txbTongTienNoBanDoc
             // 
+            this.txbTongTienNoBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTongTienNoBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTongTienNoBanDoc.Enabled = false;
+            this.txbTongTienNoBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTongTienNoBanDoc.Location = new System.Drawing.Point(568, 189);
             this.txbTongTienNoBanDoc.Name = "txbTongTienNoBanDoc";
-            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbTongTienNoBanDoc.TabIndex = 16;
             // 
             // lbNgayTaoTheBanDoc
@@ -152,10 +155,13 @@
             // 
             // txbDiaChiBanDoc
             // 
+            this.txbDiaChiBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbDiaChiBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbDiaChiBanDoc.Enabled = false;
+            this.txbDiaChiBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbDiaChiBanDoc.Location = new System.Drawing.Point(568, 143);
             this.txbDiaChiBanDoc.Name = "txbDiaChiBanDoc";
-            this.txbDiaChiBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbDiaChiBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbDiaChiBanDoc.TabIndex = 5;
             // 
             // dtpNgaySinhBanDoc
@@ -170,15 +176,21 @@
             // 
             // txbEmailBanDoc
             // 
+            this.txbEmailBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbEmailBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbEmailBanDoc.Enabled = false;
+            this.txbEmailBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbEmailBanDoc.Location = new System.Drawing.Point(568, 94);
             this.txbEmailBanDoc.Name = "txbEmailBanDoc";
-            this.txbEmailBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbEmailBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbEmailBanDoc.TabIndex = 3;
             // 
             // cbLoaiDocGia
             // 
+            this.cbLoaiDocGia.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbLoaiDocGia.Enabled = false;
+            this.cbLoaiDocGia.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbLoaiDocGia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbLoaiDocGia.FormattingEnabled = true;
             this.cbLoaiDocGia.Location = new System.Drawing.Point(108, 145);
             this.cbLoaiDocGia.Name = "cbLoaiDocGia";
@@ -187,10 +199,13 @@
             // 
             // txbCMNDBanDoc
             // 
+            this.txbCMNDBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbCMNDBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbCMNDBanDoc.Enabled = false;
+            this.txbCMNDBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbCMNDBanDoc.Location = new System.Drawing.Point(568, 53);
             this.txbCMNDBanDoc.Name = "txbCMNDBanDoc";
-            this.txbCMNDBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbCMNDBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbCMNDBanDoc.TabIndex = 1;
             // 
             // lbThongTinBanDoc
@@ -200,9 +215,9 @@
             this.lbThongTinBanDoc.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.lbThongTinBanDoc.Location = new System.Drawing.Point(279, 2);
             this.lbThongTinBanDoc.Name = "lbThongTinBanDoc";
-            this.lbThongTinBanDoc.Size = new System.Drawing.Size(291, 39);
+            this.lbThongTinBanDoc.Size = new System.Drawing.Size(280, 39);
             this.lbThongTinBanDoc.TabIndex = 0;
-            this.lbThongTinBanDoc.Text = "Thông tin bạn đọc";
+            this.lbThongTinBanDoc.Text = "Thông tin độc giả";
             // 
             // lbLoaiDocGia
             // 
@@ -222,16 +237,19 @@
             this.lbTenBanDoc.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.lbTenBanDoc.Location = new System.Drawing.Point(3, 53);
             this.lbTenBanDoc.Name = "lbTenBanDoc";
-            this.lbTenBanDoc.Size = new System.Drawing.Size(101, 20);
+            this.lbTenBanDoc.Size = new System.Drawing.Size(95, 20);
             this.lbTenBanDoc.TabIndex = 1;
-            this.lbTenBanDoc.Text = "Tên bạn đọc:";
+            this.lbTenBanDoc.Text = "Tên độc giả:";
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTenBanDoc.Enabled = false;
+            this.txbTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenBanDoc.Location = new System.Drawing.Point(108, 53);
             this.txbTenBanDoc.Name = "txbTenBanDoc";
-            this.txbTenBanDoc.Size = new System.Drawing.Size(289, 20);
+            this.txbTenBanDoc.Size = new System.Drawing.Size(289, 13);
             this.txbTenBanDoc.TabIndex = 0;
             // 
             // lbCMNDBanDoc
@@ -241,9 +259,9 @@
             this.lbCMNDBanDoc.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.lbCMNDBanDoc.Location = new System.Drawing.Point(465, 51);
             this.lbCMNDBanDoc.Name = "lbCMNDBanDoc";
-            this.lbCMNDBanDoc.Size = new System.Drawing.Size(60, 20);
+            this.lbCMNDBanDoc.Size = new System.Drawing.Size(30, 20);
             this.lbCMNDBanDoc.TabIndex = 3;
-            this.lbCMNDBanDoc.Text = "CMND:";
+            this.lbCMNDBanDoc.Text = "ID:";
             // 
             // lbNgaySinhBanDoc
             // 
@@ -305,6 +323,7 @@
             // 
             // btnLapPhieuMuon
             // 
+            this.btnLapPhieuMuon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLapPhieuMuon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLapPhieuMuon.Location = new System.Drawing.Point(456, 5);
             this.btnLapPhieuMuon.Name = "btnLapPhieuMuon";
@@ -386,15 +405,17 @@
             // chkChonSach
             // 
             this.chkChonSach.AutoSize = true;
+            this.chkChonSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkChonSach.Location = new System.Drawing.Point(11, 9);
             this.chkChonSach.Name = "chkChonSach";
-            this.chkChonSach.Size = new System.Drawing.Size(15, 14);
+            this.chkChonSach.Size = new System.Drawing.Size(12, 11);
             this.chkChonSach.TabIndex = 0;
             this.chkChonSach.UseVisualStyleBackColor = true;
             this.chkChonSach.CheckedChanged += new System.EventHandler(this.chkChonSach_CheckedChanged);
             // 
             // btnGiaHanSach
             // 
+            this.btnGiaHanSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGiaHanSach.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGiaHanSach.Location = new System.Drawing.Point(718, 5);
             this.btnGiaHanSach.Name = "btnGiaHanSach";
@@ -406,6 +427,7 @@
             // 
             // btnLapPhieuTra
             // 
+            this.btnLapPhieuTra.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLapPhieuTra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLapPhieuTra.Location = new System.Drawing.Point(598, 5);
             this.btnLapPhieuTra.Name = "btnLapPhieuTra";
@@ -438,7 +460,7 @@
             // pnDanhSachSachDangMuon
             // 
             this.pnDanhSachSachDangMuon.AutoSize = true;
-            this.pnDanhSachSachDangMuon.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pnDanhSachSachDangMuon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.pnDanhSachSachDangMuon.Location = new System.Drawing.Point(3, 3);
             this.pnDanhSachSachDangMuon.Name = "pnDanhSachSachDangMuon";
             this.pnDanhSachSachDangMuon.Size = new System.Drawing.Size(817, 203);
@@ -467,17 +489,19 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(869, 566);
             this.Controls.Add(this.sttError);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmThongTinBanDoc";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Thông tin bạn đọc";
+            this.Text = "Thông tin độc giả";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

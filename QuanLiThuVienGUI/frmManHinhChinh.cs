@@ -230,7 +230,7 @@ namespace QuanLiThuVienGUI
 
             if (index >= 0)
             {
-                frmThongTinBanDoc f = new frmThongTinBanDoc(docgia, this);
+                frmThongTinDocGia f = new frmThongTinDocGia(docgia, this);
                 f.ShowDialog();
             }
             else
@@ -851,27 +851,7 @@ namespace QuanLiThuVienGUI
 
         private void tcManHinhChinh_DrawItem(object sender, DrawItemEventArgs e)
         {
-            Graphics g = e.Graphics;
-            TabPage tp = tcManHinhChinh.TabPages[e.Index];
-            StringFormat sf = new StringFormat();
-            sf.Alignment = StringAlignment.Center; // Optional: Center text
-
-            // Define rectangle for the header
-            RectangleF headerRect = new RectangleF(e.Bounds.X, e.Bounds.Y + 2, e.Bounds.Width, e.Bounds.Height - 2);
-
-            // Brushes for background and text (adjust colors as needed)
-            SolidBrush backBrush = new SolidBrush(Color.LightBlue); // Your desired header color
-            SolidBrush textBrush = new SolidBrush(Color.Black);
-
-            // Draw background based on selected state
-            if (tcManHinhChinh.SelectedIndex == e.Index)
-            {
-                backBrush.Color = Color.LightSteelBlue; // Adjust for selected tab
-            }
-            g.FillRectangle(backBrush, headerRect);
-
-            // Draw the tab text
-            g.DrawString(tp.Text, tcManHinhChinh.Font, textBrush, headerRect, sf);
+            
         }
     }
 }

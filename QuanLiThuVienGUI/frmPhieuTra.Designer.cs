@@ -272,9 +272,10 @@
             // 
             this.chkChonSach.AutoSize = true;
             this.chkChonSach.Enabled = false;
+            this.chkChonSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkChonSach.Location = new System.Drawing.Point(11, 9);
             this.chkChonSach.Name = "chkChonSach";
-            this.chkChonSach.Size = new System.Drawing.Size(15, 14);
+            this.chkChonSach.Size = new System.Drawing.Size(12, 11);
             this.chkChonSach.TabIndex = 1;
             this.chkChonSach.UseVisualStyleBackColor = true;
             // 

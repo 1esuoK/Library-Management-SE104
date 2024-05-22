@@ -81,7 +81,10 @@
             // 
             // cbTinhTrangSach
             // 
+            this.cbTinhTrangSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbTinhTrangSach.Enabled = false;
+            this.cbTinhTrangSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbTinhTrangSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTinhTrangSach.FormattingEnabled = true;
             this.cbTinhTrangSach.Location = new System.Drawing.Point(108, 255);
             this.cbTinhTrangSach.Name = "cbTinhTrangSach";
@@ -100,10 +103,13 @@
             // 
             // txbGiaTriSach
             // 
+            this.txbGiaTriSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbGiaTriSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbGiaTriSach.Enabled = false;
+            this.txbGiaTriSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbGiaTriSach.Location = new System.Drawing.Point(545, 206);
             this.txbGiaTriSach.Name = "txbGiaTriSach";
-            this.txbGiaTriSach.Size = new System.Drawing.Size(294, 20);
+            this.txbGiaTriSach.Size = new System.Drawing.Size(294, 13);
             this.txbGiaTriSach.TabIndex = 7;
             // 
             // lbGiaTriSach
@@ -138,31 +144,43 @@
             // 
             // txbNamXuatBanSach
             // 
+            this.txbNamXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNamXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbNamXuatBanSach.Enabled = false;
+            this.txbNamXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNamXuatBanSach.Location = new System.Drawing.Point(545, 155);
             this.txbNamXuatBanSach.Name = "txbNamXuatBanSach";
-            this.txbNamXuatBanSach.Size = new System.Drawing.Size(294, 20);
+            this.txbNamXuatBanSach.Size = new System.Drawing.Size(294, 13);
             this.txbNamXuatBanSach.TabIndex = 5;
             // 
             // txbNhaXuatBanSach
             // 
+            this.txbNhaXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNhaXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbNhaXuatBanSach.Enabled = false;
+            this.txbNhaXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNhaXuatBanSach.Location = new System.Drawing.Point(545, 59);
             this.txbNhaXuatBanSach.Name = "txbNhaXuatBanSach";
-            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(294, 20);
+            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(294, 13);
             this.txbNhaXuatBanSach.TabIndex = 1;
             // 
             // txbTacGiaSach
             // 
+            this.txbTacGiaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTacGiaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTacGiaSach.Enabled = false;
+            this.txbTacGiaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTacGiaSach.Location = new System.Drawing.Point(108, 204);
             this.txbTacGiaSach.Name = "txbTacGiaSach";
-            this.txbTacGiaSach.Size = new System.Drawing.Size(280, 20);
+            this.txbTacGiaSach.Size = new System.Drawing.Size(280, 13);
             this.txbTacGiaSach.TabIndex = 6;
             // 
             // cbTheLoaiSach
             // 
+            this.cbTheLoaiSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbTheLoaiSach.Enabled = false;
+            this.cbTheLoaiSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbTheLoaiSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTheLoaiSach.FormattingEnabled = true;
             this.cbTheLoaiSach.Location = new System.Drawing.Point(108, 155);
             this.cbTheLoaiSach.Name = "cbTheLoaiSach";
@@ -171,10 +189,13 @@
             // 
             // txbMaSach
             // 
+            this.txbMaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbMaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbMaSach.Enabled = false;
+            this.txbMaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbMaSach.Location = new System.Drawing.Point(108, 108);
             this.txbMaSach.Name = "txbMaSach";
-            this.txbMaSach.Size = new System.Drawing.Size(280, 20);
+            this.txbMaSach.Size = new System.Drawing.Size(280, 13);
             this.txbMaSach.TabIndex = 2;
             // 
             // lbNamXuatBanSach
@@ -199,10 +220,13 @@
             // 
             // txbTenSach
             // 
+            this.txbTenSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTenSach.Enabled = false;
+            this.txbTenSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenSach.Location = new System.Drawing.Point(108, 61);
             this.txbTenSach.Name = "txbTenSach";
-            this.txbTenSach.Size = new System.Drawing.Size(280, 20);
+            this.txbTenSach.Size = new System.Drawing.Size(280, 13);
             this.txbTenSach.TabIndex = 0;
             // 
             // lbMaSach
@@ -271,10 +295,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(869, 310);
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;

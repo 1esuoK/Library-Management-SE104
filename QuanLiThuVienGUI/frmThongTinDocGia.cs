@@ -12,7 +12,7 @@ using QuanLiThuVienDTO;
 
 namespace QuanLiThuVienGUI
 {
-    public partial class frmThongTinBanDoc : Form
+    public partial class frmThongTinDocGia : Form
     {
         Form mainForm;
 
@@ -26,7 +26,7 @@ namespace QuanLiThuVienGUI
         List<DateTime> listngaymuon = new List<DateTime>();
         List<sachDTO> listSachDocGiaMuonTra = new List<sachDTO>();
 
-        public frmThongTinBanDoc(docgiaDTO docgia, Form parent)
+        public frmThongTinDocGia(docgiaDTO docgia, Form parent)
         {
             InitializeComponent();
             this.docgia = docgia;

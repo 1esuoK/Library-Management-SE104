@@ -61,7 +61,7 @@ namespace QuanLiThuVienGUI
                         }
                         else if (codeMuonTra == 1)
                         {
-                            frmThongTinBanDoc f = new frmThongTinBanDoc(docgia, mainForm);
+                            frmThongTinDocGia f = new frmThongTinDocGia(docgia, mainForm);
                             f.ShowDialog();
                         }
                         else if (codeMuonTra == 2)

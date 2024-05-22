@@ -368,7 +368,7 @@
             this.dgvThongTinBanDoc.AllowUserToAddRows = false;
             this.dgvThongTinBanDoc.AllowUserToDeleteRows = false;
             this.dgvThongTinBanDoc.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.dgvThongTinBanDoc.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.dgvThongTinBanDoc.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.dgvThongTinBanDoc.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvThongTinBanDoc.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvThongTinBanDoc.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
@@ -785,6 +785,7 @@
             this.dgvThongTinSach.AllowUserToAddRows = false;
             this.dgvThongTinSach.AllowUserToDeleteRows = false;
             this.dgvThongTinSach.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgvThongTinSach.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.dgvThongTinSach.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvThongTinSach.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvThongTinSach.Location = new System.Drawing.Point(0, 0);
@@ -1334,6 +1335,7 @@
             // dgvThongKe
             // 
             this.dgvThongKe.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgvThongKe.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.dgvThongKe.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvThongKe.Location = new System.Drawing.Point(6, 6);
             this.dgvThongKe.Name = "dgvThongKe";
