@@ -54,7 +54,6 @@
             this.cbNhapMaTheBanDoc.Name = "cbNhapMaTheBanDoc";
             this.cbNhapMaTheBanDoc.Size = new System.Drawing.Size(268, 21);
             this.cbNhapMaTheBanDoc.TabIndex = 2;
-            this.cbNhapMaTheBanDoc.SelectedIndexChanged += new System.EventHandler(this.cbNhapMaTheBanDoc_SelectedIndexChanged);
             this.cbNhapMaTheBanDoc.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cbNhapMaTheBanDoc_KeyDown);
             // 
             // frmNhapMaThe

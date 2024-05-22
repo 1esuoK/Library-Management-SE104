@@ -7,55 +7,59 @@
       "RelativeMoniker": "D:0:0:{A7CBF1D4-B204-4F61-9D60-BFA10266946A}|DBconnection\\DBconnection.csproj|solutionrelative:dbconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmnhapmathe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmnhapmathe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmphieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmthongtinsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtinsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmthemdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthemdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmnhapmathe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmnhapmathe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmnhapmathe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|c:\\users\\adminpc\\desktop\\cnpm\\library-management-se104\\quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmphieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmthongtinsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtinsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthongtindocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmthemdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmthemdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A8C8297-7905-4820-A95E-D715BD098C00}|QuanLiThuVienGUI\\QuanLiThuVienGUI.csproj|solutionrelative:quanlithuviengui\\frmphieuthutienphat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,8 +70,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhapMaThe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmNhapMaThe.Designer.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.Designer.cs",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmNhapMaThe.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:54:08.336Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -76,38 +93,14 @@
               "RelativeDocumentMoniker": "DBconnection\\dbconnection.cs",
               "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\DBconnection\\dbconnection.cs",
               "RelativeToolTip": "DBconnection\\dbconnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T14:05:12.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmPhieuTra.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuTra.cs",
-              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmPhieuTra.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuTra.cs [Design]",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmPhieuTra.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:57:11.024Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmThongTinDocGia.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs",
-              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThongTinDocGia.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs [Design]*",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmThongTinDocGia.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:57:08.854Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "frmThemSach.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThemSach.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThemSach.cs",
@@ -119,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmThongTinSach.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinSach.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThongTinSach.cs",
@@ -131,24 +124,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmManHinhChinh.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]*",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]*",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T13:31:19.991Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "frmNhapMaThe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.cs",
+              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmNhapMaThe.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.cs [Design]",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmNhapMaThe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:21:27.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmThongTinDocGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs",
+              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThongTinDocGia.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs [Design]",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmThongTinDocGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:57:08.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPhieuTra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuTra.cs",
+              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmPhieuTra.cs",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuTra.cs [Design]",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmPhieuTra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:57:11.024Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmThongTinDocGia.cs",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThongTinDocGia.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs*",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmThongTinDocGia.cs*",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThongTinDocGia.cs",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmThongTinDocGia.cs",
               "ViewState": "AQIAANsAAAAAAAAAAAAwwOsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T14:00:58.893Z",
@@ -156,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "frmThemDocGia.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmThemDocGia.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmThemDocGia.cs",
@@ -168,12 +197,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "frmManHinhChinh.cs",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs*",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs*",
+              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmManHinhChinh.cs",
+              "RelativeToolTip": "QuanLiThuVienGUI\\frmManHinhChinh.cs",
               "ViewState": "AQIAAE8DAAAAAAAAAAAowFUDAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T13:50:14.913Z",
@@ -181,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "frmPhieuMuon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuMuon.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmPhieuMuon.cs",
@@ -193,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "frmPhieuThuTienPhat.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuThuTienPhat.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmPhieuThuTienPhat.cs",
@@ -205,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\Program.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\Program.cs",
@@ -218,19 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmNhapMaThe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.cs",
-              "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmNhapMaThe.cs",
-              "ToolTip": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmNhapMaThe.cs [Design]*",
-              "RelativeToolTip": "QuanLiThuVienGUI\\frmNhapMaThe.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:21:27.538Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmPhieuThuTienPhat.cs",
               "DocumentMoniker": "C:\\Users\\AdminPc\\Desktop\\CNPM\\Library-Management-SE104\\QuanLiThuVienGUI\\frmPhieuThuTienPhat.cs",
               "RelativeDocumentMoniker": "QuanLiThuVienGUI\\frmPhieuThuTienPhat.cs",
