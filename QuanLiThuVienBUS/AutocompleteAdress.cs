@@ -43,7 +43,7 @@ namespace QuanLiThuVienBUS
                     XmlNode statusNode = xmlDoc.GetElementsByTagName("status")[0];
                     if (statusNode.InnerText== "ZERO_RESULTS")
                     {
-                        BUS_notification.mess = "Không tồn tại địa chỉ :3 ";
+                        BUS_notification.mess = "Không tồn tại địa chỉ ";
                         return false;
                     }
                     foreach (XmlNode xmlPredictionNode in xmlDoc.GetElementsByTagName("prediction"))
