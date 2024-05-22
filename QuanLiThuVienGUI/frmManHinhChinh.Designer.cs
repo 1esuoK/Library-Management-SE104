@@ -337,6 +337,7 @@
             this.tcManHinhChinh.SelectedIndex = 0;
             this.tcManHinhChinh.Size = new System.Drawing.Size(970, 549);
             this.tcManHinhChinh.TabIndex = 1;
+            this.tcManHinhChinh.SelectedIndexChanged += new System.EventHandler(this.tcManHinhChinh_SelectedIndexChanged);
             this.tcManHinhChinh.Selected += new System.Windows.Forms.TabControlEventHandler(this.tcManHinhChinh_Selected);
             // 
             // tpBanDoc
@@ -813,9 +814,12 @@
             // 
             // txbTimSachTheoTen
             // 
+            this.txbTimSachTheoTen.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTimSachTheoTen.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTimSachTheoTen.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTimSachTheoTen.Location = new System.Drawing.Point(96, 46);
             this.txbTimSachTheoTen.Name = "txbTimSachTheoTen";
-            this.txbTimSachTheoTen.Size = new System.Drawing.Size(250, 29);
+            this.txbTimSachTheoTen.Size = new System.Drawing.Size(250, 22);
             this.txbTimSachTheoTen.TabIndex = 1;
             this.txbTimSachTheoTen.KeyDown += new System.Windows.Forms.KeyEventHandler(this.searchSachTheoMa_KeyDown);
             // 
@@ -823,6 +827,8 @@
             // 
             this.cbTimSachTheoTheLoai.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTimSachTheoTheLoai.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbTimSachTheoTheLoai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTimSachTheoTheLoai.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTimSachTheoTheLoai.FormattingEnabled = true;
             this.cbTimSachTheoTheLoai.Location = new System.Drawing.Point(96, 80);
             this.cbTimSachTheoTheLoai.Name = "cbTimSachTheoTheLoai";
@@ -842,9 +848,12 @@
             // 
             // txbTimSachTheoTacGia
             // 
+            this.txbTimSachTheoTacGia.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTimSachTheoTacGia.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTimSachTheoTacGia.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTimSachTheoTacGia.Location = new System.Drawing.Point(96, 116);
             this.txbTimSachTheoTacGia.Name = "txbTimSachTheoTacGia";
-            this.txbTimSachTheoTacGia.Size = new System.Drawing.Size(250, 29);
+            this.txbTimSachTheoTacGia.Size = new System.Drawing.Size(250, 22);
             this.txbTimSachTheoTacGia.TabIndex = 3;
             this.txbTimSachTheoTacGia.KeyDown += new System.Windows.Forms.KeyEventHandler(this.searchSachTheoMa_KeyDown);
             // 
@@ -877,6 +886,7 @@
             // 
             // btnTimSach
             // 
+            this.btnTimSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTimSach.Location = new System.Drawing.Point(352, 11);
             this.btnTimSach.Name = "btnTimSach";
             this.btnTimSach.Size = new System.Drawing.Size(114, 131);
@@ -887,9 +897,12 @@
             // 
             // txbTimSachTheoMa
             // 
+            this.txbTimSachTheoMa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTimSachTheoMa.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTimSachTheoMa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTimSachTheoMa.Location = new System.Drawing.Point(96, 11);
             this.txbTimSachTheoMa.Name = "txbTimSachTheoMa";
-            this.txbTimSachTheoMa.Size = new System.Drawing.Size(250, 29);
+            this.txbTimSachTheoMa.Size = new System.Drawing.Size(250, 22);
             this.txbTimSachTheoMa.TabIndex = 0;
             this.txbTimSachTheoMa.KeyDown += new System.Windows.Forms.KeyEventHandler(this.searchSachTheoMa_KeyDown);
             // 
@@ -906,6 +919,7 @@
             // 
             // btnThemSach
             // 
+            this.btnThemSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThemSach.Location = new System.Drawing.Point(3, 3);
             this.btnThemSach.Name = "btnThemSach";
             this.btnThemSach.Size = new System.Drawing.Size(151, 90);
@@ -916,6 +930,7 @@
             // 
             // btnSuaThongTinSach
             // 
+            this.btnSuaThongTinSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSuaThongTinSach.Location = new System.Drawing.Point(160, 3);
             this.btnSuaThongTinSach.Name = "btnSuaThongTinSach";
             this.btnSuaThongTinSach.Size = new System.Drawing.Size(151, 90);
@@ -927,12 +942,14 @@
             // btnXoaSach
             // 
             this.btnXoaSach.Enabled = false;
+            this.btnXoaSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnXoaSach.Location = new System.Drawing.Point(317, 3);
             this.btnXoaSach.Name = "btnXoaSach";
             this.btnXoaSach.Size = new System.Drawing.Size(151, 90);
             this.btnXoaSach.TabIndex = 17;
             this.btnXoaSach.Text = "Xóa sách";
             this.btnXoaSach.UseVisualStyleBackColor = true;
+            this.btnXoaSach.Click += new System.EventHandler(this.btnXoaSach_Click);
             // 
             // flowLayoutPanel5
             // 
@@ -1006,7 +1023,9 @@
             // 
             // cbTinhTrangSach
             // 
+            this.cbTinhTrangSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.cbTinhTrangSach.Enabled = false;
+            this.cbTinhTrangSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTinhTrangSach.FormattingEnabled = true;
             this.cbTinhTrangSach.Location = new System.Drawing.Point(108, 487);
             this.cbTinhTrangSach.Name = "cbTinhTrangSach";
@@ -1026,6 +1045,7 @@
             // 
             // btnHienThongTinChiTietSach
             // 
+            this.btnHienThongTinChiTietSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnHienThongTinChiTietSach.Location = new System.Drawing.Point(3, 3);
             this.btnHienThongTinChiTietSach.Name = "btnHienThongTinChiTietSach";
             this.btnHienThongTinChiTietSach.Size = new System.Drawing.Size(439, 50);
@@ -1036,6 +1056,8 @@
             // 
             // txbGiaTriSach
             // 
+            this.txbGiaTriSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbGiaTriSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbGiaTriSach.Location = new System.Drawing.Point(108, 426);
             this.txbGiaTriSach.Name = "txbGiaTriSach";
             this.txbGiaTriSach.Size = new System.Drawing.Size(327, 29);
@@ -1076,26 +1098,35 @@
             // 
             // txbNamXuatBanSach
             // 
+            this.txbNamXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNamXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbNamXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNamXuatBanSach.Location = new System.Drawing.Point(108, 362);
             this.txbNamXuatBanSach.Name = "txbNamXuatBanSach";
-            this.txbNamXuatBanSach.Size = new System.Drawing.Size(327, 29);
+            this.txbNamXuatBanSach.Size = new System.Drawing.Size(327, 22);
             this.txbNamXuatBanSach.TabIndex = 12;
             this.txbNamXuatBanSach.TextChanged += new System.EventHandler(this.txbNamXuatBanSach_TextChanged);
             this.txbNamXuatBanSach.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinSach_KeyDown);
             // 
             // txbNhaXuatBanSach
             // 
+            this.txbNhaXuatBanSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbNhaXuatBanSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbNhaXuatBanSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbNhaXuatBanSach.Location = new System.Drawing.Point(108, 266);
             this.txbNhaXuatBanSach.Name = "txbNhaXuatBanSach";
-            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(327, 29);
+            this.txbNhaXuatBanSach.Size = new System.Drawing.Size(327, 22);
             this.txbNhaXuatBanSach.TabIndex = 10;
             this.txbNhaXuatBanSach.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinSach_KeyDown);
             // 
             // txbTacGiaSach
             // 
+            this.txbTacGiaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTacGiaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTacGiaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTacGiaSach.Location = new System.Drawing.Point(108, 216);
             this.txbTacGiaSach.Name = "txbTacGiaSach";
-            this.txbTacGiaSach.Size = new System.Drawing.Size(327, 29);
+            this.txbTacGiaSach.Size = new System.Drawing.Size(327, 22);
             this.txbTacGiaSach.TabIndex = 9;
             this.txbTacGiaSach.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinSach_KeyDown);
             // 
@@ -1103,6 +1134,8 @@
             // 
             this.cbTheLoaiSach.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTheLoaiSach.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbTheLoaiSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTheLoaiSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTheLoaiSach.FormattingEnabled = true;
             this.cbTheLoaiSach.Location = new System.Drawing.Point(108, 167);
             this.cbTheLoaiSach.Name = "cbTheLoaiSach";
@@ -1113,10 +1146,13 @@
             // 
             // txbMaSach
             // 
+            this.txbMaSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbMaSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbMaSach.Enabled = false;
+            this.txbMaSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbMaSach.Location = new System.Drawing.Point(108, 109);
             this.txbMaSach.Name = "txbMaSach";
-            this.txbMaSach.Size = new System.Drawing.Size(327, 29);
+            this.txbMaSach.Size = new System.Drawing.Size(327, 22);
             this.txbMaSach.TabIndex = 7;
             this.txbMaSach.TextChanged += new System.EventHandler(this.txbMaSach_TextChanged);
             this.txbMaSach.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinSach_KeyDown);
@@ -1143,9 +1179,12 @@
             // 
             // txbTenSach
             // 
+            this.txbTenSach.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenSach.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbTenSach.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenSach.Location = new System.Drawing.Point(108, 62);
             this.txbTenSach.Name = "txbTenSach";
-            this.txbTenSach.Size = new System.Drawing.Size(327, 29);
+            this.txbTenSach.Size = new System.Drawing.Size(327, 22);
             this.txbTenSach.TabIndex = 6;
             this.txbTenSach.KeyDown += new System.Windows.Forms.KeyEventHandler(this.editThongTinSach_KeyDown);
             // 
@@ -1207,6 +1246,7 @@
             // 
             // btnInDS
             // 
+            this.btnInDS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnInDS.Location = new System.Drawing.Point(766, 210);
             this.btnInDS.Name = "btnInDS";
             this.btnInDS.Size = new System.Drawing.Size(188, 57);
@@ -1217,6 +1257,7 @@
             // 
             // btnXemDS
             // 
+            this.btnXemDS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnXemDS.Location = new System.Drawing.Point(541, 210);
             this.btnXemDS.Name = "btnXemDS";
             this.btnXemDS.Size = new System.Drawing.Size(188, 57);
@@ -1236,6 +1277,7 @@
             // 
             // dtmThongKe
             // 
+            this.dtmThongKe.CalendarTrailingForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.dtmThongKe.CustomFormat = "MM/yyyy";
             this.dtmThongKe.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtmThongKe.Location = new System.Drawing.Point(720, 147);
@@ -1309,13 +1351,15 @@
             // 
             // btnCapNhatQuyDinh
             // 
+            this.btnCapNhatQuyDinh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
+            this.btnCapNhatQuyDinh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCapNhatQuyDinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCapNhatQuyDinh.Location = new System.Drawing.Point(712, 259);
+            this.btnCapNhatQuyDinh.Location = new System.Drawing.Point(342, 320);
             this.btnCapNhatQuyDinh.Name = "btnCapNhatQuyDinh";
             this.btnCapNhatQuyDinh.Size = new System.Drawing.Size(242, 73);
             this.btnCapNhatQuyDinh.TabIndex = 1;
             this.btnCapNhatQuyDinh.Text = "Cập Nhật Quy Định";
-            this.btnCapNhatQuyDinh.UseVisualStyleBackColor = true;
+            this.btnCapNhatQuyDinh.UseVisualStyleBackColor = false;
             this.btnCapNhatQuyDinh.Click += new System.EventHandler(this.btnCapNhatQuyDinh_Click);
             // 
             // panel5
@@ -1342,10 +1386,13 @@
             // 
             // txbQuyDinhTienPhat
             // 
+            this.txbQuyDinhTienPhat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhTienPhat.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhTienPhat.Enabled = false;
+            this.txbQuyDinhTienPhat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhTienPhat.Location = new System.Drawing.Point(213, 109);
             this.txbQuyDinhTienPhat.Name = "txbQuyDinhTienPhat";
-            this.txbQuyDinhTienPhat.Size = new System.Drawing.Size(231, 29);
+            this.txbQuyDinhTienPhat.Size = new System.Drawing.Size(231, 22);
             this.txbQuyDinhTienPhat.TabIndex = 8;
             // 
             // label9
@@ -1359,10 +1406,13 @@
             // 
             // txbQuyDinhKhoangCachNamXB
             // 
+            this.txbQuyDinhKhoangCachNamXB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhKhoangCachNamXB.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhKhoangCachNamXB.Enabled = false;
+            this.txbQuyDinhKhoangCachNamXB.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhKhoangCachNamXB.Location = new System.Drawing.Point(213, 65);
             this.txbQuyDinhKhoangCachNamXB.Name = "txbQuyDinhKhoangCachNamXB";
-            this.txbQuyDinhKhoangCachNamXB.Size = new System.Drawing.Size(231, 29);
+            this.txbQuyDinhKhoangCachNamXB.Size = new System.Drawing.Size(231, 22);
             this.txbQuyDinhKhoangCachNamXB.TabIndex = 6;
             // 
             // label8
@@ -1403,34 +1453,46 @@
             // 
             // txbQuyDinhTuoiToiThieu
             // 
+            this.txbQuyDinhTuoiToiThieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhTuoiToiThieu.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhTuoiToiThieu.Enabled = false;
+            this.txbQuyDinhTuoiToiThieu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhTuoiToiThieu.Location = new System.Drawing.Point(195, 65);
             this.txbQuyDinhTuoiToiThieu.Name = "txbQuyDinhTuoiToiThieu";
-            this.txbQuyDinhTuoiToiThieu.Size = new System.Drawing.Size(264, 29);
+            this.txbQuyDinhTuoiToiThieu.Size = new System.Drawing.Size(264, 22);
             this.txbQuyDinhTuoiToiThieu.TabIndex = 8;
             // 
             // txbQuyDinhTuoiToiDa
             // 
+            this.txbQuyDinhTuoiToiDa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhTuoiToiDa.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhTuoiToiDa.Enabled = false;
+            this.txbQuyDinhTuoiToiDa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhTuoiToiDa.Location = new System.Drawing.Point(195, 109);
             this.txbQuyDinhTuoiToiDa.Name = "txbQuyDinhTuoiToiDa";
-            this.txbQuyDinhTuoiToiDa.Size = new System.Drawing.Size(264, 29);
+            this.txbQuyDinhTuoiToiDa.Size = new System.Drawing.Size(264, 22);
             this.txbQuyDinhTuoiToiDa.TabIndex = 7;
             // 
             // txbQuyDinhSoNgayDuocMuon
             // 
+            this.txbQuyDinhSoNgayDuocMuon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhSoNgayDuocMuon.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhSoNgayDuocMuon.Enabled = false;
+            this.txbQuyDinhSoNgayDuocMuon.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhSoNgayDuocMuon.Location = new System.Drawing.Point(196, 152);
             this.txbQuyDinhSoNgayDuocMuon.Name = "txbQuyDinhSoNgayDuocMuon";
-            this.txbQuyDinhSoNgayDuocMuon.Size = new System.Drawing.Size(264, 29);
+            this.txbQuyDinhSoNgayDuocMuon.Size = new System.Drawing.Size(264, 22);
             this.txbQuyDinhSoNgayDuocMuon.TabIndex = 6;
             // 
             // txbQuyDinhSoSachDuocMuon
             // 
+            this.txbQuyDinhSoSachDuocMuon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbQuyDinhSoSachDuocMuon.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbQuyDinhSoSachDuocMuon.Enabled = false;
+            this.txbQuyDinhSoSachDuocMuon.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbQuyDinhSoSachDuocMuon.Location = new System.Drawing.Point(195, 199);
             this.txbQuyDinhSoSachDuocMuon.Name = "txbQuyDinhSoSachDuocMuon";
-            this.txbQuyDinhSoSachDuocMuon.Size = new System.Drawing.Size(264, 29);
+            this.txbQuyDinhSoSachDuocMuon.Size = new System.Drawing.Size(264, 22);
             this.txbQuyDinhSoSachDuocMuon.TabIndex = 5;
             // 
             // label6

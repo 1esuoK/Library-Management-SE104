@@ -125,5 +125,25 @@ namespace QuanLiThuVienGUI
         {
             cbTheLoaiSach.DroppedDown = true;
         }
+
+        private void frmThemSach_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbTenSach_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbTacGiaSach_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbNhaXuatBanSach_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
