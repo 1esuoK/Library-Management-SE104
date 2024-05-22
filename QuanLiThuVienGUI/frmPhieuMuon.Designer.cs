@@ -96,10 +96,13 @@
             // 
             // txbMaTheBanDoc
             // 
+            this.txbMaTheBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbMaTheBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbMaTheBanDoc.Enabled = false;
+            this.txbMaTheBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbMaTheBanDoc.Location = new System.Drawing.Point(90, 59);
             this.txbMaTheBanDoc.Name = "txbMaTheBanDoc";
-            this.txbMaTheBanDoc.Size = new System.Drawing.Size(264, 20);
+            this.txbMaTheBanDoc.Size = new System.Drawing.Size(264, 13);
             this.txbMaTheBanDoc.TabIndex = 5;
             this.txbMaTheBanDoc.TabStop = false;
             // 
@@ -127,10 +130,13 @@
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTenBanDoc.Enabled = false;
+            this.txbTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenBanDoc.Location = new System.Drawing.Point(571, 57);
             this.txbTenBanDoc.Name = "txbTenBanDoc";
-            this.txbTenBanDoc.Size = new System.Drawing.Size(262, 20);
+            this.txbTenBanDoc.Size = new System.Drawing.Size(262, 13);
             this.txbTenBanDoc.TabIndex = 4;
             this.txbTenBanDoc.TabStop = false;
             // 
@@ -163,6 +169,9 @@
             // 
             this.cbTimSachTheoMa.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
             this.cbTimSachTheoMa.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cbTimSachTheoMa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.cbTimSachTheoMa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cbTimSachTheoMa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.cbTimSachTheoMa.FormattingEnabled = true;
             this.cbTimSachTheoMa.Location = new System.Drawing.Point(90, 49);
             this.cbTimSachTheoMa.Name = "cbTimSachTheoMa";
@@ -181,13 +190,15 @@
             // 
             // btnTaoPhieuMuon
             // 
+            this.btnTaoPhieuMuon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.btnTaoPhieuMuon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTaoPhieuMuon.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTaoPhieuMuon.Location = new System.Drawing.Point(697, 18);
             this.btnTaoPhieuMuon.Name = "btnTaoPhieuMuon";
             this.btnTaoPhieuMuon.Size = new System.Drawing.Size(136, 63);
             this.btnTaoPhieuMuon.TabIndex = 1;
             this.btnTaoPhieuMuon.Text = "Tạo phiếu mượn";
-            this.btnTaoPhieuMuon.UseVisualStyleBackColor = true;
+            this.btnTaoPhieuMuon.UseVisualStyleBackColor = false;
             this.btnTaoPhieuMuon.Click += new System.EventHandler(this.btnTaoPhieuMuon_Click);
             // 
             // panel4
@@ -262,9 +273,10 @@
             // chkChonSach
             // 
             this.chkChonSach.AutoSize = true;
+            this.chkChonSach.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkChonSach.Location = new System.Drawing.Point(11, 9);
             this.chkChonSach.Name = "chkChonSach";
-            this.chkChonSach.Size = new System.Drawing.Size(15, 14);
+            this.chkChonSach.Size = new System.Drawing.Size(12, 11);
             this.chkChonSach.TabIndex = 0;
             this.chkChonSach.TabStop = false;
             this.chkChonSach.UseVisualStyleBackColor = true;
@@ -293,7 +305,8 @@
             // pnDanhSachSachMuon
             // 
             this.pnDanhSachSachMuon.AutoSize = true;
-            this.pnDanhSachSachMuon.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pnDanhSachSachMuon.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.pnDanhSachSachMuon.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.pnDanhSachSachMuon.Location = new System.Drawing.Point(3, 3);
             this.pnDanhSachSachMuon.Name = "pnDanhSachSachMuon";
             this.pnDanhSachSachMuon.Size = new System.Drawing.Size(817, 218);
@@ -304,10 +317,12 @@
             this.AcceptButton = this.btnTaoPhieuMuon;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuy;
             this.ClientSize = new System.Drawing.Size(877, 500);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;

@@ -40,11 +40,9 @@
             this.lbTongTienNoBanDoc = new System.Windows.Forms.Label();
             this.lbTenBanDoc = new System.Windows.Forms.Label();
             this.txbTenBanDoc = new System.Windows.Forms.TextBox();
-            this.panel2 = new System.Windows.Forms.Panel();
             this.btnTaoPhieu = new System.Windows.Forms.Button();
             this.btnHuy = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -76,10 +74,13 @@
             // 
             // txbSoTienConLai
             // 
+            this.txbSoTienConLai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbSoTienConLai.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbSoTienConLai.Enabled = false;
+            this.txbSoTienConLai.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbSoTienConLai.Location = new System.Drawing.Point(108, 168);
             this.txbSoTienConLai.Name = "txbSoTienConLai";
-            this.txbSoTienConLai.Size = new System.Drawing.Size(261, 20);
+            this.txbSoTienConLai.Size = new System.Drawing.Size(261, 13);
             this.txbSoTienConLai.TabIndex = 26;
             // 
             // label3
@@ -95,9 +96,12 @@
             // 
             // txbSoTienThu
             // 
+            this.txbSoTienThu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbSoTienThu.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbSoTienThu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbSoTienThu.Location = new System.Drawing.Point(108, 127);
             this.txbSoTienThu.Name = "txbSoTienThu";
-            this.txbSoTienThu.Size = new System.Drawing.Size(261, 20);
+            this.txbSoTienThu.Size = new System.Drawing.Size(261, 13);
             this.txbSoTienThu.TabIndex = 24;
             this.txbSoTienThu.TextChanged += new System.EventHandler(this.txbSoTienThu_TextChanged);
             // 
@@ -124,10 +128,13 @@
             // 
             // txbTongTienNoBanDoc
             // 
+            this.txbTongTienNoBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTongTienNoBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTongTienNoBanDoc.Enabled = false;
+            this.txbTongTienNoBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTongTienNoBanDoc.Location = new System.Drawing.Point(108, 89);
             this.txbTongTienNoBanDoc.Name = "txbTongTienNoBanDoc";
-            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(261, 20);
+            this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(261, 13);
             this.txbTongTienNoBanDoc.TabIndex = 21;
             // 
             // lbTongTienNoBanDoc
@@ -154,41 +161,41 @@
             // 
             // txbTenBanDoc
             // 
+            this.txbTenBanDoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
+            this.txbTenBanDoc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txbTenBanDoc.Enabled = false;
+            this.txbTenBanDoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.txbTenBanDoc.Location = new System.Drawing.Point(108, 52);
             this.txbTenBanDoc.Name = "txbTenBanDoc";
-            this.txbTenBanDoc.Size = new System.Drawing.Size(261, 20);
+            this.txbTenBanDoc.Size = new System.Drawing.Size(261, 13);
             this.txbTenBanDoc.TabIndex = 19;
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.btnTaoPhieu);
-            this.panel2.Controls.Add(this.btnHuy);
-            this.panel2.Location = new System.Drawing.Point(13, 215);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(372, 29);
-            this.panel2.TabIndex = 1;
             // 
             // btnTaoPhieu
             // 
+            this.btnTaoPhieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.btnTaoPhieu.Enabled = false;
-            this.btnTaoPhieu.Location = new System.Drawing.Point(213, 3);
+            this.btnTaoPhieu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTaoPhieu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
+            this.btnTaoPhieu.Location = new System.Drawing.Point(226, 222);
             this.btnTaoPhieu.Name = "btnTaoPhieu";
             this.btnTaoPhieu.Size = new System.Drawing.Size(75, 23);
             this.btnTaoPhieu.TabIndex = 1;
             this.btnTaoPhieu.Text = "Tạo phiếu";
-            this.btnTaoPhieu.UseVisualStyleBackColor = true;
+            this.btnTaoPhieu.UseVisualStyleBackColor = false;
             this.btnTaoPhieu.Click += new System.EventHandler(this.btnTaoPhieu_Click);
             // 
             // btnHuy
             // 
+            this.btnHuy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(69)))), ((int)(((byte)(73)))));
             this.btnHuy.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnHuy.Location = new System.Drawing.Point(294, 3);
+            this.btnHuy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnHuy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
+            this.btnHuy.Location = new System.Drawing.Point(307, 222);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 23);
             this.btnHuy.TabIndex = 0;
             this.btnHuy.Text = "Hủy";
-            this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.UseVisualStyleBackColor = false;
             this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // frmPhieuThuTienPhat
@@ -196,17 +203,19 @@
             this.AcceptButton = this.btnTaoPhieu;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(43)))), ((int)(((byte)(48)))));
             this.CancelButton = this.btnHuy;
-            this.ClientSize = new System.Drawing.Size(397, 253);
-            this.Controls.Add(this.panel2);
+            this.ClientSize = new System.Drawing.Size(397, 256);
+            this.Controls.Add(this.btnTaoPhieu);
+            this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(137)))), ((int)(((byte)(218)))));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmPhieuThuTienPhat";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Phiếu thu tiền phạt";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -223,7 +232,6 @@
         private System.Windows.Forms.Label lbTongTienNoBanDoc;
         private System.Windows.Forms.Label lbTenBanDoc;
         private System.Windows.Forms.TextBox txbTenBanDoc;
-        private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button btnTaoPhieu;
         private System.Windows.Forms.Button btnHuy;
         private System.Windows.Forms.Label lbSoTienThuEx;
