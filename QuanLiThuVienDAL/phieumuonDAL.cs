@@ -54,24 +54,6 @@ public    class phieumuonDAL
        
             return true; 
         }
-
-        // tu sinh maphieumuon 
-
-        ////public int taoMaPM()
-        ////{
-        ////    int mpm;
-
-  
-
-
-
-        ////    return 1; 
-        
-        ////}
-
-
-
-        // them phieu muon // pm tu tang //ngay muon lon
     
         public bool themPhieuMuon(phieumuonDTO pmDTO )
         {

@@ -116,11 +116,6 @@ namespace QuanLiThuVienBUS
             sachDTO temp = new sachDTO();
             list = DanhSachSach();
 
-            //if(masach != "")
-            //if (saxDAL.isSach(sDTO.Masach,ref temp))
-            //{
-            //    result.Add(temp);
-            //}
 
             if (masach != "")
             {
@@ -263,8 +258,6 @@ namespace QuanLiThuVienBUS
             return false;
         }
 
-        /// <summary>
-        /// M thêm code vô đây
         /// </summary>
         /// <param name="sDTO"></param>
         /// <returns></returns>
@@ -305,9 +298,6 @@ namespace QuanLiThuVienBUS
             return listsach;
         }
 
-        ////////////////////////////////////////////////////////////////////////////////////////////////
-        ////////////////////// Khu vực Internal ///////////////////////////////////////////////////////
-        //////////////////////////////////////////////////////////////////////////////////////////////
 
         #region Internal
 

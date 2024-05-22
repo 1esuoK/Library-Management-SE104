@@ -24,7 +24,6 @@ namespace QuanLiThuVienDAL
             string query = string.Format("select* from [cacloaisach] order by loaisach  asc ");
             SqlParameter[] parm = new SqlParameter[1];
 
-            // ko can thiet nhung phai co 
             docgiaDTO dg = new docgiaDTO();
             parm[0] = new SqlParameter("@masach", SqlDbType.Int);
             parm[0].Value = dg.MaThe;

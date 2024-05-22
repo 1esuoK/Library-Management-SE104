@@ -30,7 +30,7 @@ namespace QuanLiThuVienDAL
            string query = string.Format("select* from [cacloaidocgia] ");
            SqlParameter[] parm = new SqlParameter[1];
 
-            // ko can thiet nhung phai co 
+
             docgiaDTO dg = new docgiaDTO();
             parm[0] = new SqlParameter("@masach", SqlDbType.Int);
             parm[0].Value = dg.MaThe;
@@ -39,7 +39,6 @@ namespace QuanLiThuVienDAL
             DataTable datatable = new DataTable();
            datatable = conn.excuteNonQuery(query, parm);
 
-           //gan value trong datatable vao DTO 
 
            foreach (DataRow dr in datatable.Rows)
            {

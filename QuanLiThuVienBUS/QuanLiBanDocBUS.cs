@@ -140,12 +140,7 @@ namespace QuanLiThuVienBUS
             return false;
         }
          
-        /// <summary>
-        /// M thêm code vô đây
-        /// , rep :ok gái
-        /// </summary>
-        /// <param name="docgia"></param>
-        /// <returns></returns>
+       
         public bool XoaDocGia(docgiaDTO docgia)
         {
             docgiaDAL doxgiaDAL = new docgiaDAL();

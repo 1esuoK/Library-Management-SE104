@@ -22,5 +22,6 @@ namespace QuanLiThuVienGUI
             this.TKRportViewer.RefreshReport();
             
         }
+
     }
 }

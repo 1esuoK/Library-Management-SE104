@@ -27,11 +27,8 @@ namespace QuanLiThuVienDAL
         public bool tatcaSach(List<sachDTO> lsachDTO)
         {
 
-
-
             string query = string.Format("select* from [sach] ");
             SqlParameter[] parm = new SqlParameter[1];
-            // ko can thiet nhung phai co 
             docgiaDTO dg = new docgiaDTO();
             parm[0] = new SqlParameter("@masach", SqlDbType.Int);
             parm[0].Value = dg.MaThe;

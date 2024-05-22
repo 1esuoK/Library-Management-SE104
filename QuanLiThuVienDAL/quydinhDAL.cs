@@ -30,7 +30,6 @@ namespace QuanLiThuVienDAL
 
            SqlParameter[] param = new SqlParameter[1]; 
            DataTable dt= new DataTable ();
-            // ko can thiet nhung phai co 
             docgiaDTO dg = new docgiaDTO();
             param[0] = new SqlParameter("@masach", SqlDbType.Int);
             param[0].Value = dg.MaThe;
