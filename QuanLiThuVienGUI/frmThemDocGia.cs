@@ -31,7 +31,20 @@ namespace QuanLiThuVienGUI
             int loaiDocGia = 0;
             int tuoi = 0;
 
-            if (txbTenBanDoc.Text != "" && txbEmailBanDoc.Text != "" && txbDiaChiBanDoc.Text != "" && txbCMNDBanDoc.Text != "" && dtpNgaySinhBanDoc.Text != "")
+            quydinhBUS quydinhBUS = new quydinhBUS();
+            quydinhDTO quydinhDTO = new quydinhDTO();
+            quydinhBUS.ListQuyDinh(quydinhDTO);
+            int namSinh = dtpNgaySinhBanDoc.Value.Year;
+            int tuoiMin = quydinhDTO.Tuoimin;
+            int tuoiMax = quydinhDTO.Tuoimax;
+            if (DateTime.Now.Year - namSinh < tuoiMin || DateTime.Now.Year - namSinh > tuoiMax)
+            {
+                lbNgaySinhEX.Text = "Tuổi tối thiểu: " + tuoiMin + " - Tuổi tối đa: " + tuoiMax;
+                MessageBox.Show("Ngày sinh không hợp lệ", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
+
+            else if (txbTenBanDoc.Text != "" && txbEmailBanDoc.Text != "" && txbDiaChiBanDoc.Text != "" && txbCMNDBanDoc.Text != "" && dtpNgaySinhBanDoc.Text != "")
             {
                 QuanLiBanDocBUS quanLiBanDocBUS = new QuanLiBanDocBUS();
                 tuoi = DateTime.Now.Year - dtpNgaySinhBanDoc.Value.Year;
