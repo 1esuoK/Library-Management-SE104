@@ -135,8 +135,7 @@
             this.txbTongTienNoBanDoc.Location = new System.Drawing.Point(108, 89);
             this.txbTongTienNoBanDoc.Name = "txbTongTienNoBanDoc";
             this.txbTongTienNoBanDoc.Size = new System.Drawing.Size(261, 13);
-            this.txbTongTienNoBanDoc.TabIndex = 21;
-            // 
+            this.txbTongTienNoBanDoc.TabIndex = 21;            // 
             // lbTongTienNoBanDoc
             // 
             this.lbTongTienNoBanDoc.AutoSize = true;
